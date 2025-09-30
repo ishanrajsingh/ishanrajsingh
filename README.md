@@ -26,11 +26,12 @@ I'm a passionate tech enthusiast with 2 years of experience building scalable, h
 
 - Solved <b>250+ algorithmic/coding challenges</b> on LeetCode, achieving a rank under 500,000
 - Contributed to open-source projects including:
-  - <a href="https://github.com/ishanrajsingh/skills-introduction-to-github">skills-introduction-to-github</a>
+  - <a href="https://github.com/google-deepmind/alphafold3">google-deepmind/alphafold3</a>
   - <a href="https://github.com/microsoft/qlib">microsoft/qlib</a>
-  - <a href="https://github.com/github-education-experiences/introduction-to-github">introduction-to-github</a>
+  - <a href="https://github.com/google/meridian">google/meridian</a>
   - <a href="https://github.com/google/langextract">google/langextract</a>
   - <a href="https://github.com/google/adk-python">google/adk-python</a>
+  - & Many More...
 - Active GitHub contributor with a commitment to continuous improvement and impactful contributions
 
 ---
