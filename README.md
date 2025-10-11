@@ -31,6 +31,7 @@ I'm a passionate tech enthusiast with 2 years of experience building scalable, h
   - <a href="https://github.com/google/meridian">google/meridian</a>
   - <a href="https://github.com/google/langextract">google/langextract</a>
   - <a href="https://github.com/google/adk-python">google/adk-python</a>
+  - <a href="https://github.com/google/magika">google/magika</a>
   - & Many More...
 - Active GitHub contributor with a commitment to continuous improvement and impactful contributions
 
