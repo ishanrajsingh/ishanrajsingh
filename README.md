@@ -1,57 +1,134 @@
-<!-- Profile README for ishanrajsingh -->
+---
 
-<h1 align="center">Hi, I'm Ishan Raj Singh 👋</h1>
-<p align="center">
-  <b>Passionate tech enthusiast | Problem solver | Full-stack developer</b>
-</p>
+## 💻 Tech Stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
 
 ---
 
-🔹 <b>About Me</b>
+## 📊 GitHub Statistics
 
-I'm a passionate tech enthusiast with 2 years of experience building scalable, high-performance applications and solving complex algorithmic problems. I pride myself on writing clean, efficient code, and I’m always learning the latest tools and best practices.
+<div align="center">
+  
+<!-- GitHub Stats Card -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ishanrajsingh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=3BDBF7&icon_color=3BDBF7&text_color=C9D1D9"/>
 
----
+<!-- GitHub Streak Stats -->
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ishanrajsingh&theme=tokyonight&hide_border=true&background=0D1117&stroke=3BDBF7&ring=3BDBF7&fire=FF6D00&currStreakLabel=3BDBF7"/>
 
-💡 <b>Key Strengths</b>
+</div>
 
-- Strong foundation in data structures, algorithms, and problem solving (consistent performance on <a href="https://leetcode.com/u/GHogbw8bJn/">LeetCode</a>)
-- Expertise in <b>Python, C, SQL, HTML, CSS, JavaScript</b> and more
-- Experience with both front-end and back-end development; comfortable with full-stack projects and system architecture design
-- Effective communicator and team player; enjoy mentoring and collaborating across functions
+<div align="center">
 
----
+<!-- Most Used Languages -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishanrajsingh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3BDBF7&text_color=C9D1D9&langs_count=8"/>
 
-🏆 <b>Selected Achievements</b>
+<!-- Trophy Stats -->
+<img src="https://github-profile-trophy.vercel.app/?username=ishanrajsingh&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
 
-- Solved <b>300+ algorithmic/coding challenges</b> on LeetCode, achieving a rank under 399,999
-- Contributed to open-source projects including:
-  - <a href="https://github.com/microsoft/agent-framework">microsoft/agent-framework</a>
-  - <a href="https://github.com/google-deepmind/alphafold3">google-deepmind/alphafold3</a>
-  - <a href="https://github.com/microsoft/qlib">microsoft/qlib</a>
-  - <a href="https://github.com/google/meridian">google/meridian</a>
-  - <a href="https://github.com/google/langextract">google/langextract</a>
-  - <a href="https://github.com/google/adk-python">google/adk-python</a>
-  - <a href="https://github.com/google/magika">google/magika</a>
-  - & Many More...
-- Active GitHub contributor with a commitment to continuous improvement and impactful contributions
+</div>
 
 ---
 
-🌱 <b>What Drives Me</b>
+## 🏆 Achievements & Contributions
 
-Continuous growth — solving tougher problems, optimizing for scalability, architecting solutions, and learning emerging technologies. I thrive in environments that challenge me technically and enable me to make substantial contributions.
+<div align="center">
+
+### 🎯 LeetCode Journey
+[![LeetCode](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FGHogbw8bJn&logo=leetcode&logoColor=yellow)](https://leetcode.com/u/GHogbw8bJn/)
+[![LeetCode Ranking](https://img.shields.io/badge/Rank-Under%20399K-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/GHogbw8bJn/)
+
+### 🌟 Open Source Contributions
+
+</div>
+
+- 🤖 **[Microsoft Agent Framework](https://github.com/microsoft/agent-framework)** - Agentic AI systems
+- 🧬 **[Google DeepMind AlphaFold3](https://github.com/google-deepmind/alphafold3)** - Protein structure prediction
+- 📈 **[Microsoft Qlib](https://github.com/microsoft/qlib)** - Quantitative investment platform
+- 🌐 **[Google Meridian](https://github.com/google/meridian)** - Marketing Mix Modeling
+- 🔤 **[Google LangExtract](https://github.com/google/langextract)** - Language detection
+- 🐍 **[Google ADK Python](https://github.com/google/adk-python)** - Application Development Kit
+- 🔮 **[Google Magika](https://github.com/google/magika)** - AI-powered file type detection
 
 ---
 
-📫 <b>Connect with me!</b>
+## 📈 Activity Graph
 
-- <a href="https://www.linkedin.com/in/ishan-raj-singh">LinkedIn</a>
-- <a href="https://leetcode.com/u/GHogbw8bJn">LeetCode</a>
-- <a href="https://github.com/ishanrajsingh">GitHub</a>
+<div align="center">
+
+<!-- Contribution Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ishanrajsingh&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3BDBF7&line=3BDBF7&point=FFFFFF" width="100%"/>
+
+</div>
+
+<!-- Snake Animation -->
+<div align="center">
+  
+![Snake animation](https://raw.githubusercontent.com/ishanrajsingh/ishanrajsingh/output/github-snake-dark.svg)
+
+
+</div>
 
 ---
 
-<!--
-✨ Always eager to connect and collaborate on exciting projects!
--->
+## 🎯 What Drives Me
+
+<div align="center">
+
+Continuous Learning & Growth
+
+Solving Complex Algorithmic Problems
+
+Building Scalable Architectures
+
+Contributing to Open Source
+
+Optimizing for Performance
+
+text
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishan-raj-singh)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/GHogbw8bJn)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ishanrajsingh)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+</div>
+
+---
+
+## 📊 Profile Views
+
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=ishanrajsingh&color=3BDBF7&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+</div>
