@@ -96,8 +96,6 @@ Contributing to Open Source
 
 Optimizing for Performance
 
-text
-
 </div>
 
 ---
