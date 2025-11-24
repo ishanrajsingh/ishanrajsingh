@@ -35,7 +35,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishanrajsingh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3BDBF7&text_color=C9D1D9&langs_count=8"/>
 
 <!-- Trophy Stats -->
-<img src="https://github-profile-trophy.vercel.app/?username=ishanrajsingh&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
+<img src="https://github-profile-trophy.vercel.app/?username=ishanrajsingh&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=5" width="100%" alt="Trophy" />
 
 </div>
 
