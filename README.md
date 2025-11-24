@@ -46,8 +46,8 @@ Continuous growth — solving tougher problems, optimizing for scalability, arch
 
 📫 <b>Connect with me!</b>
 
-- <a href="https://www.linkedin.com/in/ishan-raj-singh-4511a3381/">LinkedIn</a>
-- <a href="https://leetcode.com/u/GHogbw8bJn/">LeetCode</a>
+- <a href="https://www.linkedin.com/in/ishan-raj-singh">LinkedIn</a>
+- <a href="https://leetcode.com/u/GHogbw8bJn">LeetCode</a>
 - <a href="https://github.com/ishanrajsingh">GitHub</a>
 
 ---
