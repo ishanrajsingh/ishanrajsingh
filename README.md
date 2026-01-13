@@ -7,6 +7,8 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -20,22 +22,27 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  
-<!-- GitHub Stats Card -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ishanrajsingh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=3BDBF7&icon_color=3BDBF7&text_color=C9D1D9"/>
 
-<!-- GitHub Streak Stats -->
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ishanrajsingh&theme=tokyonight&hide_border=true&background=0D1117&stroke=3BDBF7&ring=3BDBF7&fire=FF6D00&currStreakLabel=3BDBF7"/>
+<a href="https://github.com/ishanrajsingh">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ishanrajsingh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=3BDBF7&icon_color=3BDBF7&text_color=C9D1D9&rank_icon=github"/>
+</a>
+<a href="https://github.com/ishanrajsingh">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishanrajsingh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3BDBF7&text_color=C9D1D9&langs_count=8&card_width=320"/>
+</a>
 
 </div>
 
 <div align="center">
 
-<!-- Most Used Languages -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishanrajsingh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3BDBF7&text_color=C9D1D9&langs_count=8"/>
+<!-- Using alternative streak stats server -->
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=ishanrajsingh&theme=tokyonight&hide_border=true&background=0D1117&stroke=3BDBF7&ring=3BDBF7&fire=FF6D00&currStreakLabel=3BDBF7"/>
+
+</div>
+
+<div align="center">
 
 <!-- Trophy Stats -->
-<img src="https://github-profile-trophy.vercel.app/?username=ishanrajsingh&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=5" width="100%" alt="Trophy" />
+<img src="https://github-profile-trophy.vercel.app/?username=ishanrajsingh&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
 
 </div>
 
@@ -77,7 +84,6 @@
   
 ![Snake animation](https://raw.githubusercontent.com/ishanrajsingh/ishanrajsingh/output/github-snake-dark.svg)
 
-
 </div>
 
 ---
@@ -86,15 +92,9 @@
 
 <div align="center">
 
-Continuous Learning & Growth
+✨ **Continuous Learning & Growth** | 🧩 **Solving Complex Algorithmic Problems** | 🏗️ **Building Scalable Architectures**
 
-Solving Complex Algorithmic Problems
-
-Building Scalable Architectures
-
-Contributing to Open Source
-
-Optimizing for Performance
+🌐 **Contributing to Open Source** | ⚡ **Optimizing for Performance**
 
 </div>
 
