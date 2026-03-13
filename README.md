@@ -54,7 +54,7 @@
 
 ### 🎯 LeetCode Journey
 [![LeetCode](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FGHogbw8bJn&logo=leetcode&logoColor=yellow)](https://leetcode.com/u/GHogbw8bJn/)
-[![LeetCode Ranking](https://img.shields.io/badge/Rank-Under%20399K-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/GHogbw8bJn/)
+[![LeetCode Ranking](https://img.shields.io/badge/Rank-Under%20349K-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/GHogbw8bJn/)
 
 ### 🌟 Open Source Contributions
 
